@@ -1,0 +1,1 @@
+This is a test to see if the most recent commit of feat-b is pulled when accepting a pull request.
